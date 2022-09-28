@@ -1,0 +1,13 @@
+#grad {
+    background-image: linear-gradient(red, yellow);
+  }
+
+  .texto{
+    margin-left: 10%;
+    align-content: center;
+  }
+
+  .texto2{
+    margin-left: 10%;
+    align-content: center;
+  }
